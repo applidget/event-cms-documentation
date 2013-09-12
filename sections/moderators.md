@@ -49,6 +49,19 @@ Click on 'Live Module' in the sidebar and on the 'Enable' button.
 This module requires sessions (a session is a subset of an event : a room, an assembly, a conference, a meeting, …).
 Create these sessions by clicking on 'Sessions' in the sidebar and add as many sessions as needed.
 On the New Session form, just set the name for now, other fields will be explained below.
+On the Live module page, click on the 'Moderate' button of a session, here you have the functionalities of the live module (listed above) in a menu. 
+
+### Q&A
+
+Q&A is a tool for guests to share a comment, ask a question related to the session. Doing so, the guests will be able to start a debate on the subject and answer to each other.
+Q&A can be upvoted by guests :
+* Upvoting a Question means that it would be interesting for the speaker to talk about it during the session
+* Upvoting an Answer means that the guest agrees with it and wants to highlight it
+
+You can also add a Question from the back-office : click on "Post a question/comment" and specify the content in the form.
+After that, you will be able to publish/unpublish the Q&A so the Questions is available or not in the front-office.
+When the Q&A is published, a direct link to the public page appears right next to the label.
+Click on "Moderate", here you have all the answers given by the guests for this question, as well as the number of upvotes.
 
 
 
