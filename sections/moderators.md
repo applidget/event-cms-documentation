@@ -34,3 +34,21 @@ When your website is ready to be launched, click on "Send invitations". All your
 
 Hit the refresh button of your web browser to refresh details about the invitations background process displayed on the same page.
 
+## Live module
+
+The live module includes these functionnalities :
+* Questions & Answers (Q&A)
+* Polls
+* Quizzs (comming soon)
+
+
+### Enable Live Module
+
+Click on 'Live Module' in the sidebar and on the 'Enable' button.
+
+This module requires sessions (a session is a subset of an event : a place, a room, an assembly, …).
+Create theses sessions by clicking on 'Sessions' in the sidebar and add as many session as needed.
+Just set the name of the new session form, other fields will be explained below.
+
+
+
