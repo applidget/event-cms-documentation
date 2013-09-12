@@ -9,8 +9,9 @@ Once invited by an admin, after defining your password, you will have access to 
 
 Click on "admin" form adminstration console of the corresponding event.
 
+## Guests
 
-## Import and synchronize guests with the Mobicheckin platform
+### Enable the guest module
 
 By clicking on "Guest module" in the sidebar menu, you will see the form below :
 
@@ -19,13 +20,15 @@ By clicking on "Guest module" in the sidebar menu, you will see the form below :
 Your *Mobicheckin auth token* can be found on the [mobicheckin API doc](https://app.mobicheckin.com/fr/api)
 The field *Mobicheckin event* is the mobicheckin unique identifier of your event, it can be found in the URL of the Mobichechin administration console (please contact Applidget dev team for support)
 
-After settings these parameters, click on the button "synchronize guests". A background process will import all guests from Mobicheckin.
+### Import and synchronize guests with the Mobicheckin platform 
+
+After activating the guest module, click on the button "synchronize guests". A background process will import all guests from Mobicheckin.
 After every changes on Mobichekin (new guests, deleted guests, etc.), re-synchronized Event CMS by clicking on the same button.
 Details of the synchronization will be displayed on the same page, don't hesitate to hit the refresh button of your web browser.
 
 ![guest module sync](https://raw.github.com/applidget/event-cms-documentation/master/images/guest_module_2.png)
 
-## Invit your guests for registration on your event's website
+### Invite your guests for registration on your event's website
 
 When your website is ready for the launch, click on "Send invitations". All your guests will receive an invitation email and have the possibility to create an account on your website.
 
