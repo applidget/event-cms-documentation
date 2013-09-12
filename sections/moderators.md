@@ -36,19 +36,19 @@ Hit the refresh button of your web browser to refresh details about the invitati
 
 ## Live module
 
-The live module includes these functionnalities :
+The live module includes these functionalities :
 * Questions & Answers (Q&A)
 * Polls
-* Quizzs (comming soon)
+* Quizzes (coming soon)
 
 
 ### Enable Live Module
 
 Click on 'Live Module' in the sidebar and on the 'Enable' button.
 
-This module requires sessions (a session is a subset of an event : a place, a room, an assembly, …).
-Create theses sessions by clicking on 'Sessions' in the sidebar and add as many session as needed.
-Just set the name of the new session form, other fields will be explained below.
+This module requires sessions (a session is a subset of an event : a room, an assembly, a conference, a meeting, …).
+Create these sessions by clicking on 'Sessions' in the sidebar and add as many sessions as needed.
+On the New Session form, just set the name for now, other fields will be explained below.
 
 
 
