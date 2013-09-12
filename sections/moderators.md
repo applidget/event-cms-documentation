@@ -15,7 +15,7 @@ Click on the "Admin" button of the event you want to manage so you can go to its
 
 By clicking on "Guest module" in the sidebar menu, you will see the form below :
 
-![guest module](https://raw.github.com/applidget/event-cms-documentation/master/images/guest_module_1.png)
+![guest module](https://raw.github.com/applidget/event-cms-documentation/master/images/guest_module1.png)
 
 Your *Mobicheckin auth token* can be found on the [mobicheckin API doc](https://app.mobicheckin.com/fr/api)
 The field *Mobicheckin event* is the mobicheckin unique identifier of your event, it can be found in the URL of the Mobicheckin administration console (please contact Applidget development team for support)
@@ -26,7 +26,7 @@ After activating the guest module, click on the button "synchronize guests". A b
 After every changes on Mobichekin (new guests, deleted guests, etc.), re-synchronize Event CMS by clicking on the same button.
 Details of the synchronization will be displayed on the same page, don't hesitate to hit the refresh button of your web browser.
 
-![guest module sync](https://raw.github.com/applidget/event-cms-documentation/master/images/guest_module_2.png)
+![guest module sync](https://raw.github.com/applidget/event-cms-documentation/master/images/guest_module2.png)
 
 ### Invite your guests for registration on your event's website
 
