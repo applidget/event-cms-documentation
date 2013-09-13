@@ -6,7 +6,7 @@ Click on the link 'Live module' in the sidebar to reach the administration conso
 
 Quick links :
 * [Add a comment/question](https://github.com/applidget/event-cms-documentation/blob/master/sections/moderators/q_and_a.md#-add-a-commentquestion)
-* [Enable/diable a comment](https://github.com/applidget/event-cms-documentation/blob/master/sections/moderators/q_and_a.md#-enabledisable-a-comment)
+* [Enable/disable a comment](https://github.com/applidget/event-cms-documentation/blob/master/sections/moderators/q_and_a.md#-enabledisable-a-comment)
 * [Delete a comment](https://github.com/applidget/event-cms-documentation/blob/master/sections/moderators/q_and_a.md#-delete-a-comment)
 * [Edit a comment](https://github.com/applidget/event-cms-documentation/blob/master/sections/moderators/q_and_a.md#-edit-a-comment)
 * [Moderate a comment](https://github.com/applidget/event-cms-documentation/blob/master/sections/moderators/q_and_a.md#-moderate-a-questioncomment)
