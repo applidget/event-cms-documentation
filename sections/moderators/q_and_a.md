@@ -12,7 +12,7 @@ Quick links :
 * [Moderate a comment](https://github.com/applidget/event-cms-documentation/blob/master/sections/moderators/q_and_a.md#-moderate-a-questioncomment)
   * [Hide an answer](https://github.com/applidget/event-cms-documentation/blob/master/sections/moderators/q_and_a.md#-hide-an-answer)
   * [Edit an answer](https://github.com/applidget/event-cms-documentation/blob/master/sections/moderators/q_and_a.md#-edit-an-answer)
-
+* [Advanced settings](https://github.com/applidget/event-cms-documentation/blob/master/sections/moderators/q_and_a.md#advanced-settings)
 ---
 
 ## Add a comment/question
