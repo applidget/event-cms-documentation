@@ -7,10 +7,10 @@ The live module includes these functionalities :
 * Polls
 * Quizzes (coming soon)
 
+### Q&A
 
 [How to moderate Q&A](https://github.com/applidget/event-cms-documentation/blob/master/sections/moderators/q_and_a.md)
 
-### Q&A
 
 Q&A is a tool for guests to share a comment, ask a question related to the session. Doing so, the guests will be able to start a debate on the subject and answer to each other.
 Q&A can be upvoted by guests :
