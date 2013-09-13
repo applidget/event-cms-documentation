@@ -1,6 +1,6 @@
 #How to moderate Q&A
 
-Click on the link 'Live module' in the sidebar to reach the administration console of the Q&A module.
+Click on the link 'Live module' in the sidebar to reach the administration console of the Q&A module (first tab, see image below)
 
 ![Q&A tab](https://raw.github.com/applidget/event-cms-documentation/master/images/moderators/qa_tab.png)
 
