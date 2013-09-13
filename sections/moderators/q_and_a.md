@@ -2,6 +2,8 @@
 
 Click on the link 'Live module' in the sidebar to reach the administration console of the Q&A module.
 
+![Q&A tab](https://raw.github.com/applidget/event-cms-documentation/master/images/moderators/qa_tab.png)
+
 ## Add a comment/question
 
 Guest can create new comment directly on the website (the front-office) but you can also create comments in the backoffice to pre-fill your Q&A module.
@@ -35,7 +37,7 @@ On this snapshot, you can see :
 2. The vote counter : how many guests have upvoted this comment
 3. Answer : the content of the answer and actions available (edit and publish/unpublish)
 
-### hide an answer
+### Hide an answer
 
 Guests can freely answer to any question displayed on the front office so it will be necessary to moderate an answer if it does not respect the rules. Click on 'unpublish' and the content of this answer will be hidden on the front office. Defaultly, this answer will be replace by 'this answer has been moderated' (see the 'advanced settings' for details).
 

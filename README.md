@@ -5,3 +5,4 @@ Event CMS (for Content Management System) gives the possibility to easily create
 
 [Doc for moderators](https://github.com/applidget/event-cms-documentation/blob/master/sections/moderators.md)
 
+[Doc for administrators](https://github.com/applidget/event-cms-documentation/blob/master/sections/administrators.md)
