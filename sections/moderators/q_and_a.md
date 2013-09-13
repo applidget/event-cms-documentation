@@ -43,7 +43,7 @@ If you want to moderate the debate on a question (see and moderate answers, see 
 
 On this snapshot, you can see : 
 
-1. Comment/question details : content, creation date, author and status (enable or not)
+1. Comment/question details : content, creation date, author and status (enabled or not)
 2. The vote counter : how many guests have upvoted this comment
 3. Answers : the content of each answer and actions available (edit and publish/unpublish)
 
