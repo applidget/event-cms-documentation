@@ -68,6 +68,7 @@ You can change several session settings by clicking on the cog (see below) :
 ![edit session](https://raw.github.com/applidget/event-cms-documentation/master/images/moderators/edit_session.png)
 
 On this page, you can defined :
+
 1. The name of your session (e.g. name of the meeting or name of the conference)
 2. The status of the comment when a guest create a new one. If it is enable by default, it can be seen directly for all guests. Otherwise, comments have to be validated before publication.
 3. This field defined the message displayed on the front-office when an answer has been moderated
