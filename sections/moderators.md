@@ -34,7 +34,7 @@ When your website is ready to be launched, click on "Send invitations". All your
 
 Hit the refresh button of your web browser to refresh details about the invitations background process displayed on the same page.
 
-## Live module
+## Moderators for Live module
 
 The live module includes these functionalities :
 * Questions & Answers (Q&A)
