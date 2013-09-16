@@ -1,4 +1,4 @@
-    #How to manage Polls
+# How to manage Polls
 
 Click on the link 'Live module' in the sidebar and then on the 'Polls' tab to reach the administration console of the Polls module
 
