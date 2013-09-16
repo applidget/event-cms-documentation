@@ -24,3 +24,6 @@ Click on "Moderate", here you have all the answers given by the guests for this 
 
 
 
+### Polls
+
+[How to moderate polls](https://github.com/applidget/event-cms-documentation/blob/master/sections/moderators/polls.md)
