@@ -5,10 +5,10 @@ Click on the link 'Live module' in the sidebar and then on the 'Polls' tab to re
 ![Q&A tab](https://raw.github.com/applidget/event-cms-documentation/master/images/moderators/poll_tab.png)
 
 Quick links :
-* [Add a poll]
-* [Open/close a poll]
-* [Configure a poll]
-* [Delete a poll]
+* [Add a poll](https://github.com/applidget/event-cms-documentation/blob/master/sections/moderators/polls.md#add-a-poll)
+* [Open/close a poll](https://github.com/applidget/event-cms-documentation/blob/master/sections/moderators/polls.md#openclose-a-poll)
+* [Configure a poll](https://github.com/applidget/event-cms-documentation/blob/master/sections/moderators/polls.md#configure-a-poll)
+* [Delete a poll](https://github.com/applidget/event-cms-documentation/blob/master/sections/moderators/polls.md#delete-a-poll)
 
 ---
 
