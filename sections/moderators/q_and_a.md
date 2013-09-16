@@ -5,13 +5,13 @@ Click on the link 'Live module' in the sidebar to reach the administration conso
 ![Q&A tab](https://raw.github.com/applidget/event-cms-documentation/master/images/moderators/qa_tab.png)
 
 Quick links :
-* [Add a comment/question](https://github.com/applidget/event-cms-documentation/blob/master/sections/moderators/q_and_a.md#-add-a-commentquestion)
-* [Enable/disable a comment](https://github.com/applidget/event-cms-documentation/blob/master/sections/moderators/q_and_a.md#-enabledisable-a-comment)
-* [Delete a comment](https://github.com/applidget/event-cms-documentation/blob/master/sections/moderators/q_and_a.md#-delete-a-comment)
-* [Edit a comment](https://github.com/applidget/event-cms-documentation/blob/master/sections/moderators/q_and_a.md#-edit-a-comment)
-* [Moderate a comment](https://github.com/applidget/event-cms-documentation/blob/master/sections/moderators/q_and_a.md#-moderate-a-questioncomment)
-  * [Hide an answer](https://github.com/applidget/event-cms-documentation/blob/master/sections/moderators/q_and_a.md#-hide-an-answer)
-  * [Edit an answer](https://github.com/applidget/event-cms-documentation/blob/master/sections/moderators/q_and_a.md#-edit-an-answer)
+* [Add a comment/question](https://github.com/applidget/event-cms-documentation/blob/master/sections/moderators/q_and_a.md#add-a-commentquestion)
+* [Enable/disable a comment](https://github.com/applidget/event-cms-documentation/blob/master/sections/moderators/q_and_a.md#enabledisable-a-comment)
+* [Delete a comment](https://github.com/applidget/event-cms-documentation/blob/master/sections/moderators/q_and_a.md#delete-a-comment)
+* [Edit a comment](https://github.com/applidget/event-cms-documentation/blob/master/sections/moderators/q_and_a.md#edit-a-comment)
+* [Moderate a comment](https://github.com/applidget/event-cms-documentation/blob/master/sections/moderators/q_and_a.md#moderate-a-questioncomment)
+  * [Hide an answer](https://github.com/applidget/event-cms-documentation/blob/master/sections/moderators/q_and_a.md#hide-an-answer)
+  * [Edit an answer](https://github.com/applidget/event-cms-documentation/blob/master/sections/moderators/q_and_a.md#edit-an-answer)
 * [Advanced settings](https://github.com/applidget/event-cms-documentation/blob/master/sections/moderators/q_and_a.md#advanced-settings)
 
 ---
