@@ -15,14 +15,14 @@ Event CMS (for Content Management System) gives the possibility to easily create
 A moderator is the manager of one event session.
 
 A moderator can :
-* In the Q&A module of his/her session
-  * Create a comment/question in the Q&A
+* In the Q&A module of one's session
+  * Create comments
   * Enable/disable comments
   * Edit comments
   * Delete comments
-  * Moderate comments/questions
-* In the polls module of his/her session
-  * Add a pole
+  * Moderate comments
+* In the polls module of one's session
+  * Add polls
   * Open/close polls
   * Configure polls
 
@@ -31,7 +31,7 @@ A moderator can :
 ### Admin
 
 An admin can :
-* do everything a moderator can do for every sessions of the event
+* Do everything a moderator can do for every session of the event
 * Manage users :
   * Add admins
   * Add moderators
