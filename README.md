@@ -42,5 +42,6 @@ An admin can :
 * Add documents
 * Manage sessions
 * Manage guests after activating the "guests module"
-* 
+
+
   [Go to doc for administrators](https://github.com/applidget/event-cms-documentation/blob/master/sections/administrators.md)
